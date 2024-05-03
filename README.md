@@ -42,5 +42,6 @@ docker compose up -d && docker logs -f replicatr-docker
 ```
 
 You can check if the Nostr relay is working from: https://nostrrr.com/relay/YourNostrRelayUL  
-Nostrrr: https://nostrrr.com/relay/replicatr.fractalized.net 
-Nostr.watch: https://nostr.watch/relay/replicatr.fractalized.net
+Nostrrr: https://nostrrr.com/relay/replicatr.fractalized.net  
+Nostr.watch: https://nostr.watch/relay/replicatr.fractalized.net  
+Docker hub: https://hub.docker.com/r/pastagringo/replicatr-docker (15.44 MB)  
